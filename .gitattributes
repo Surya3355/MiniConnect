@@ -1,0 +1,35 @@
+# Auto detect text files
+* text=auto
+
+# Kotlin
+*.kt text eol=lf
+*.kts text eol=lf
+
+# Gradle
+*.gradle text eol=lf
+*.properties text eol=lf
+
+# XML
+*.xml text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# YAML
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Shell
+*.sh text eol=lf
+
+# Windows batch
+*.bat text eol=crlf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.jar binary
