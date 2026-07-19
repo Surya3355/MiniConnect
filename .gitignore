@@ -26,3 +26,6 @@ captures/
 # OS files
 Thumbs.db
 desktop.ini
+
+# Built APKs — release is ~22 MB and debug ~86 MB; both are build output.
+*.apk
