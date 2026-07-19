@@ -19,6 +19,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        // LiveKit pulls audioswitch from JitPack
+        maven { url = uri("https://jitpack.io") }
     }
 }
 
